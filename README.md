@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🛒 Simulador de Lojas? Só se for com caos!
 
-<!--
-**JGHub2011/JGHub2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Eu sou o João Gabriel.
+Programo, construo e animo meu próprio jogo no Roblox com a ajuda do **noob342gg**, que contribui com ideias, animações e desenhos.
 
-Here are some ideas to get you started:
+Nosso projeto tem de tudo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Clientes
+✅ Vendas
+✅ Ladrões
+✅ Protestos
+✅ NPCs inteligentes
+✅ Loja totalmente customizável
+✅ E ainda vai ter muito mais!
+
+---
+
+## 🧠 O que já aprendi:
+
+* Eventos e lógica condicional
+* Loop `for` e `while`
+* TweenService pra deixar tudo bonito
+* GUI e interface de loja
+* Pathfinding para NPCs realistas
+* Spawn automático de lojas
+* Efeitos, colisões, cutscenes e mais
+
+---
+
+## 🛣️ Próximos passos:
+
+* Salvar dados com DataStore
+* Sistema de decoração estilo livre
+* Loja de upgrades com câmera especial
+
+
+
